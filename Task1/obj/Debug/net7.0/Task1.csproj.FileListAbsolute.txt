@@ -1,0 +1,15 @@
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\osgmg\Desktop\ГБ\ДЗ\HW_Lesson5_C#\Task1\obj\Debug\net7.0\ref\Task1.dll
